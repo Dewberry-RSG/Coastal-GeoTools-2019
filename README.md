@@ -1,4 +1,4 @@
 # Coastal-GeoTools-2019
-A presentation on leveraging Jupyter Notebooks for automating large scale flood risk studies 
+Jupyter Notebooks: The Right Tech at the Right TIme
 
-### Hindcasting Hurricane Harvey
+[Presentation](index.slides.html)
