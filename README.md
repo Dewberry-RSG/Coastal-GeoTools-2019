@@ -9,20 +9,20 @@
 
 ### Introduction & Background
 
- __[Hurricane Harvey: Hindcast__](https://www.citylab.com/environment/2018/10/hurricane-harvey-houston-recovery-aid-federal-funds-fema/573094/)
+ ### [Hurricane Harvey: Hindcast](https://www.citylab.com/environment/2018/10/hurricane-harvey-houston-recovery-aid-federal-funds-fema/573094/)
 
  ![](images/city_lab.png)
 
  ---
 
- __NC Storm Sourge: Production Runs__
+ #### NC Storm Sourge: Production Runs
 
  ![](images/nc_papermill.png)
 
 ---
 
 
- Why use free, [Open Source Software](https://www.osgeo.org/) when we can buy multiple software products to do the same thing? 
+ #### Why use free, [Open Source Software](https://www.osgeo.org/) when we can buy multiple software products to do the same thing? 
 
  ![](images/python_swiss_army.png)
 
@@ -32,11 +32,8 @@
 
  ---
 
- Why do we need [__GIT__](https://github.com)...we already have version control system in place?
-
+ #### Why do we need [__GIT__](https://github.com)...we already have version control system in place?
  ![](images/version_control.png)
-
----
 
 
 __The Big Question__: Which version of the report was copied to the `Deliverables` folder
@@ -44,13 +41,10 @@ __The Big Question__: Which version of the report was copied to the `Deliverable
 ---
 
 
- Where does  [__Jupyter__](https://www.youtube.com/watch?v=s98IGzlptHw) fit in?
+#### Where does  [__Jupyter__](https://www.youtube.com/watch?v=s98IGzlptHw) fit in?
 ![](images/jupyter_langs.png)
 
-
 ---
-
-
 
 [__Presentation__](index.slides.html)
 
