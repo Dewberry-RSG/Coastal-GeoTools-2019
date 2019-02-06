@@ -34,7 +34,7 @@
 
  Why do we need [__GIT__](https://github.com)...we already have version control system in place?
 
- ![](images/version_control.PNG)
+ ![](images/version_control.png)
 
 ---
 
