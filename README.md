@@ -10,21 +10,18 @@
 ### Introduction & Background
 
  ### [Hurricane Harvey: Hindcast](https://www.citylab.com/environment/2018/10/hurricane-harvey-houston-recovery-aid-federal-funds-fema/573094/)
-
- ![](images/city_lab.png)
+![](images/city_lab.png)
 
  ---
 
  #### NC Storm Sourge: Production Runs
-
- ![](images/nc_papermill.png)
+![](images/nc_papermill.png)
 
 ---
 
 
  #### Why use free, [Open Source Software](https://www.osgeo.org/) when we can buy multiple software products to do the same thing? 
-
- ![](images/python_swiss_army.png)
+![](images/python_swiss_army.png)
 
 
  *Looks like you were right. Can’t use field calculator to do what I’m trying to do. I’ll be writing a Python script.*
@@ -33,7 +30,7 @@
  ---
 
  #### Why do we need [__GIT__](https://github.com)...we already have version control system in place?
- ![](images/version_control.png)
+![](images/version_control.png)
 
 
 __The Big Question__: Which version of the report was copied to the `Deliverables` folder
